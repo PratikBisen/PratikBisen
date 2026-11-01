@@ -20,12 +20,12 @@ Hey! I'm **Pratik Bisen**, a second-year Information Technology undergraduate at
 
 I'm a developer in progress who enjoys learning by doing — building projects, experimenting with tools, understanding how things work, and improving one step at a time.
 
-- 🔭 **Building:** Web projects and practical software experiments.
-- 🌱 **Learning:** Data Structures & Algorithms with C++, JavaScript, Python, and the foundations of AI/ML.
-- 🛡️ **Exploring:** Cybersecurity, open source, and interesting ideas from across the tech world.
-- 🤝 **Open to:** Collaborating on beginner-friendly open-source projects, web apps, and hackathon ideas.
-- 💬 **Ask me about:** C, C++, Python, JavaScript, HTML/CSS, Git, and GitHub.
-- ⚡ **Fun fact:** I enjoy figuring out how things work — sometimes by taking them apart first.
+-  **Building:** Web projects and practical software experiments.
+-  **Learning:** Data Structures & Algorithms with C++, JavaScript, Python, and the foundations of AI/ML.
+-  **Exploring:** Cybersecurity, open source, and interesting ideas from across the tech world.
+-  **Open to:** Collaborating on beginner-friendly open-source projects, web apps, and hackathon ideas.
+-  **Ask me about:** C, C++, Python, JavaScript, HTML/CSS, Git, and GitHub.
+-  **Fun fact:** I enjoy figuring out how things work — sometimes by taking them apart first.
 
 ## 🧰 Tech Stack
 
