@@ -42,34 +42,43 @@ I'm a developer in progress who enjoys learning by doing — building projects, 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎧 Spotify Homepage Clone</h3>
-      <p>A front-end recreation of Spotify's homepage, built with HTML and CSS. Includes a sidebar, playlist cards, a dark interface, and a fixed music-player layout.</p>
+    <td colspan="2" valign="top">
+      <h3>🎓 GatiPath — Adaptive Learning Platform</h3>
+      <p>An adaptive learning platform designed for Classes 6–10 that personalizes education according to each student's understanding. Features smart diagnostic assessments, misconception detection, adaptive practice, progressive hints, mastery tracking, multilingual support, offline capabilities, and dedicated student and teacher dashboards.</p>
       <p>
-        <a href="https://github.com/PratikBisen/spotifyHomepageClone"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-        <a href="https://pratikbisen.github.io/spotifyHomepageClone/"><img src="https://img.shields.io/badge/Live_Demo-087F5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a>
+        <strong>My Role:</strong> Designed and developed the entire project.
       </p>
-      <sub>HTML · CSS · Responsive UI</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧭 Responsive Sidebar</h3>
-      <p>A responsive sidebar navigation component made with HTML and CSS, featuring a CSS-only toggle and smooth transitions.</p>
       <p>
-        <a href="https://github.com/PratikBisen/responsiveSidebar"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-        <a href="https://pratikbisen.github.io/responsiveSidebar/"><img src="https://img.shields.io/badge/Live_Demo-087F5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a>
+        <a href="https://github.com/PratikBisen/gatipath"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+        <a href="https://pratikbisen.github.io/gatipath/"><img src="https://img.shields.io/badge/Live_Demo-087F5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
       </p>
-      <sub>HTML · CSS · Navigation</sub>
+      <sub>React · TypeScript · Tailwind CSS · Vite · IndexedDB · Vitest</sub>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>🎮 Simon Says Game</h3>
-      <p>A browser-based memory game built with JavaScript. Follow the growing sequence and test your memory.</p>
+    <td width="50%" valign="top">
+      <h3>🌐 ITSA Website — SGGSIE&T</h3>
+      <p>The official website of the Information Technology Students Association at SGGSIE&T, featuring event information, committee details, and archives. Built to provide students with a centralized platform for association activities and information.</p>
       <p>
-        <a href="https://github.com/PratikBisen/Simon-Says-Game"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
-        <a href="https://pratikbisen.github.io/Simon-Says-Game/"><img src="https://img.shields.io/badge/Live_Demo-087F5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" /></a>
+        <strong>My Role:</strong> Designed and developed the entire website.
       </p>
-      <sub>JavaScript · HTML · CSS · DOM</sub>
+      <p>
+        <a href="https://github.com/ITSA-SGGS/ITSA_W"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+        <a href="https://itsa-sggsiet.vercel.app/"><img src="https://img.shields.io/badge/Live_Website-087F5B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" /></a>
+      </p>
+      <sub>React · TypeScript · Tailwind CSS · Vite</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ HackIT CommitRush 2026</h3>
+      <p>A platform for an open-source contribution challenge, featuring project and issue exploration, contribution tracking, leaderboards, developer profiles, and personalized dashboards.</p>
+      <p>
+        <strong>My Role:</strong> Contributor to website development.
+      </p>
+      <p>
+        <a href="https://github.com/Hackit-DROID/HackIT-CommitRush"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+        <a href="https://hack-it-commit-rush.vercel.app/"><img src="https://img.shields.io/badge/Live_Website-087F5B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Website" /></a>
+      </p>
+      <sub>React · TypeScript · Tailwind CSS · Django</sub>
     </td>
   </tr>
 </table>
@@ -77,6 +86,7 @@ I'm a developer in progress who enjoys learning by doing — building projects, 
 <p align="center">
   <a href="https://github.com/PratikBisen?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-See_more_projects-087F5B?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
 </p>
+
 
 ## 📊 GitHub at a Glance
 
